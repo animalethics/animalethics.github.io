@@ -445,11 +445,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-ethical-analysis-tool-for-behavioral-euthanasia-of-companion-animals",
-          title: 'Ethical Analysis Tool for Behavioral Euthanasia of Companion Animals',
-          description: "This is a participatory ethical tool that brings together stakeholders for an ethical assessment regarding behavioral euthanasia of companion animals. The tool faciliates a discussion of all relevant moral aspects. The tool is designed to guide, but not dictate, a moral outcome, and to reduce moral stress in animal caretakers including veterinarians, animal guardians, humane societies, and resuce organizations.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/matrix/";
             },},{
         id: 'social-email',
         title: 'email',
