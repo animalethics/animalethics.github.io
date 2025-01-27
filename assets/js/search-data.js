@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-behavioral-euthanasia",
+          title: "behavioral euthanasia",
+          description: "This is a participatory ethical tool that brings together stakeholders for an ethical assessment regarding behavioral euthanasia of companion animals. The tool faciliates a discussion of all relevant moral aspects. The tool is designed to guide, but not dictate, a moral outcome, and to reduce moral stress in animal caretakers including veterinarians, animal guardians, humane societies, and resuce organizations.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/matrix/";
+          },
         },{id: "nav-schedule",
           title: "schedule",
           description: "Schedule with Katie",
