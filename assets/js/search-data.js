@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-behavioral-euthanasia",
+  },{id: "nav-behavioral-euthanasia",
           title: "behavioral euthanasia",
           description: "This is a participatory ethical tool that brings together stakeholders for an ethical assessment regarding behavioral euthanasia of companion animals. The tool faciliates a discussion of all relevant moral aspects. The tool is designed to guide, but not dictate, a moral outcome, and to reduce moral stress in animal caretakers including veterinarians, animal guardians, humane societies, and resuce organizations.",
           section: "Navigation",
@@ -39,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
